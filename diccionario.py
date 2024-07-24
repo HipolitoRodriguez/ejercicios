@@ -14,8 +14,6 @@ print("{}{}".format(angulo,chr(176)))
 # Obtener el area del cuadro #
 area=cateto1*cateto2
 print(area)
-print("hola mundo cruel, estoy de suerte")
-print("mas prints")
-print("se hace desded la linea de comandos, las variables")
+
 
 # fin
