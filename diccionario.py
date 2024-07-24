@@ -15,5 +15,7 @@ print("{}{}".format(angulo,chr(176)))
 area=cateto1*cateto2
 print(area)
 
+print("se agrega esta parte en un commit")
+
 
 # fin
